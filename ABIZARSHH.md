@@ -12,9 +12,9 @@ $ pkg install python
 $ pkg install git
 $ python3 -m pip install requests
 $ python3 -m pip install bs4
-$ git clone https://github.com/hekelpro/ssh
+$ git clone https://github.com/AbizarFADILAH/ABI-SHH
 $ cd ssh
-$ python ssh.py
+$ python ABIZARSSH.py
 ```
 # THANKS TO
 ```
