@@ -4,7 +4,7 @@
 Mau di enc pun percuma gw gak bisa
 ketik: git pull
 
-coded by Rizky ID
+coded by Abizar
 """
 
 from os import system
